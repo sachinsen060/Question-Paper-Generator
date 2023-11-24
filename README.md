@@ -48,10 +48,8 @@ src: Contains Java source code.
 WebContent: Contains web-related files, including JSP pages, CSS, and images.
 
 # Technologies Used
-Java
-JSP (JavaServer Pages)
-Servlets
-HTML, CSS
-MySQL Database
-
-
+- Java
+- JSP (JavaServer Pages)
+- Servlets
+- HTML, CSS
+- MySQL Database
