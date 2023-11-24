@@ -2,13 +2,13 @@
 The Question Paper Generator is designed to assist educators in creating customized question papers for exams. It offers a web-based interface where users can specify the total marks for the paper and the distribution of marks across different difficulty levels (easy, medium, hard). The system retrieves questions from a database based on these criteria and generates a question paper meeting the specified requirements.
 
 # Table of Contents
-Features
-Getting Started
-Prerequisites
-Installation
-Usage
-Project Structure
-Technologies Used
+- Features
+- Getting Started
+- Prerequisites
+- Installation
+- Usage
+- Project Structure
+- Technologies Used
 
 # Features
 Question Retrieval: Retrieve questions from a database based on subjects, topics, and difficulty levels.
