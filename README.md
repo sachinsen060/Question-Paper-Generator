@@ -21,6 +21,7 @@ git clone:
 `
 https://github.com/sachinsen060/Question-Paper-Generator.git
 `
+
 2. Database Setup:
 - Create a MySQL database and import the provided SQL schema file.
 
