@@ -1,15 +1,6 @@
 # Question-Paper-Generator
 The Question Paper Generator is designed to assist educators in creating customized question papers for exams. It offers a web-based interface where users can specify the total marks for the paper and the distribution of marks across different difficulty levels (easy, medium, hard). The system retrieves questions from a database based on these criteria and generates a question paper meeting the specified requirements.
 
-# Table of Contents
-- Features
-- Getting Started
-- Prerequisites
-- Installation
-- Usage
-- Project Structure
-- Technologies Used
-
 # Features
 Question Retrieval: Retrieve questions from a database based on subjects, topics, and difficulty levels.
 Paper Generation: Generate question papers with a specified total mark and marks distribution across easy, medium, and hard difficulty levels.
@@ -25,7 +16,10 @@ MySQL Database
 ## Installation
 
 1. Clone the repository:
-`git clone - https://github.com/sachinsen060/Question-Paper-Generator.git
+
+git clone:
+`
+https://github.com/sachinsen060/Question-Paper-Generator.git
 `
 2. Database Setup:
 - Create a MySQL database and import the provided SQL schema file.
